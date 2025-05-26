@@ -13,7 +13,6 @@
 - ✅ Armazenamento em banco de dados SQLite
 - ✅ Histórico de simulações por e-mail
 - ✅ Exportação dos resultados
-- ✅ Envio automático dos resultados por e-mail
 - ✅ Interface customizada em Streamlit
 
 ---
