@@ -37,7 +37,6 @@ DataFin/
 ├── taxes/ # Módulos auxiliares
 │ ├── banco.py # Funções de banco de dados
 │ ├── analisePerfil.py # Lógica de simulação e sugestão
-│ ├── email_sender.py # Envio de e-mail dos resultados
 
 ## 📌 Próximas Funcionalidades
 - Dashboard administrativo com estatísticas
