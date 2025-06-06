@@ -50,4 +50,3 @@ DataFin/
 
 ## 🧠 Autor
 - Feito com 💡 por Leticia Fantinel — 2025
-- Contato: leticiaduarte549@gmail.com
