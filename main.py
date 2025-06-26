@@ -64,7 +64,7 @@ def main():
                 background-color: #ffffff;
             }
             .logo-container {
-            position: flex;
+            display: flex;
             top: 15px;
             left: 15px;
             z-index: 1000;
