@@ -65,8 +65,6 @@ def main():
             }
             .logo-container {
             display: flex;
-            top: 15px;
-            left: 15px;
             z-index: 1000;
         }
 
